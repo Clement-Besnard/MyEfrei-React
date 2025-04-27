@@ -96,7 +96,7 @@ MyEfrei-React/
 
 ### Administrateur
 
-- Identifiant : admin
+- Identifiant : 1
 - Mot de passe : admin
 
 ### Professeur
